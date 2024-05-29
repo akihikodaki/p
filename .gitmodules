@@ -1,0 +1,6 @@
+[submodule "fuse-overlayfs"]
+	path = fuse-overlayfs
+	url = ../fuse-overlayfs.git
+[submodule "podman"]
+	path = podman
+	url = ../podman.git
